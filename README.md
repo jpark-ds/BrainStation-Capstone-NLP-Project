@@ -24,7 +24,7 @@ Brief descriptions about each Jupyter Notebook uploaded into this repository are
 | 01 - Data-Cleaning-and-Exploration-Part-1      | Initial data wrangling of reviews, review ratings, and exploratory data analysis.       |
 | 02 - Text-Pre-processing-and-Language-Detection-Part-2   | Applying text pre-processing steps to review texts in preparation for downstream analysis along with implementation of a pre-trained hierarchical classifier for separating English-only reviews.        |
 | 03 - Vectorization-and-Sentiment-Analysis-Part-3   | Transform reviews into a Document-Term Matrix and fit a logistic regression model to identify words predictive of postive and negative reviews.       |
-| Topic-Modeling-and-Model-Exploration-Part-4   | Transform reviews into several different data formats as inputs to gensim's Latent Dirichlet Allocation for uncovering hidden themes or topics within the reviews.        |
+| 04 - Topic-Modeling-and-Model-Exploration-Part-4   | Transform reviews into several different data formats as inputs to gensim's Latent Dirichlet Allocation for uncovering hidden themes or topics within the reviews.        |
 
 
 # References
